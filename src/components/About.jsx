@@ -30,7 +30,7 @@ const About = () => {
                             <img
                                 className="w-65 h-65"
                                 src={mainImage3}
-                                alt="Woman Avatar"
+                                alt="GymImage"
                             />
                         </div>
                         <div className="bg-gradient-to-br from-orange-400 to-orange-900 relative
@@ -38,7 +38,7 @@ const About = () => {
                             <img
                                 className="w-66 h-66"
                                 src={mainImage1}
-
+                                alt="GymImage"
                             />
                         </div>
                     </div>
